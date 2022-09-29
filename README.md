@@ -1,4 +1,4 @@
-# L2TP-only-VPN
+# L2TP-only-VPN (demo only, no production)
 This VPN only uses L2TP without IPsec. It is based on [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) project. 
 
 ## How to build on server
